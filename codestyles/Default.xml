@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <codeStyleSettings language="Python">
+    <option name="SPACE_AROUND_RELATIONAL_OPERATORS" value="false" />
+  </codeStyleSettings>
+</code_scheme>
